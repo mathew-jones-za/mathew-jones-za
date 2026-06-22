@@ -5,10 +5,6 @@
 
 **Systems Integration Engineer · South Africa**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mathew-jones-za)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mathew-jones-za)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mathew@mathewjones.co.za)
-
 </div>
 
 ---
@@ -20,10 +16,10 @@ I work at the intersection of **renewable energy and software** — commissionin
 ### What I work with
 
 ```
-Languages   →  Python
-Protocols   →  Modbus RTU · Modbus TCP · CAN Bus · RS485
-Energy      →  BESS · PV Inverters · Hybrid Inverters · Diesel Generators · Energy Meters
-Hardware    →  Sigenergy · ATESS · SMA · ComAp · DSE · Balancell · Freedom Won
+Languages → Python
+Protocols → Modbus RTU · Modbus TCP · CAN Bus · RS485
+Energy → BESS · PV Inverters · Hybrid Inverters · Diesel Generators · Energy Meters
+Hardware → Sigenergy · ATESS · SMA · ComAp · DSE · Balancell · Freedom Won
 ```
 
 ---
